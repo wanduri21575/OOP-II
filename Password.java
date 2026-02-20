@@ -1,4 +1,6 @@
-Java code online
+//CT100/G/21575/24
+//WANDURI MOSES 
+
 import java.util.Scanner;
 public class Password{
     public static void main(String[] args) {
@@ -15,3 +17,4 @@ public class Password{
         System.out.println("Password is "+password);
     }
 }
+
