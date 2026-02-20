@@ -1,3 +1,6 @@
+//CT100/G/21575/24
+//WANDURI MOSES 
+
 import java.util.Scanner;
 public class Smallest{
     public static void main(String[] args) {
@@ -38,4 +41,5 @@ public class Smallest{
         System.out.print("The smallest is number: " +smallest);
         
     }
+
 }
