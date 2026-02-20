@@ -1,3 +1,6 @@
+//CT100/G/21575/24
+//WANDURI MOSES 
+
 import java.util.Scanner;
 public class Average{
     public static void main(String[] args) {
@@ -17,4 +20,5 @@ public class Average{
         System.out.print("The average is : " +average);
 
     }
+
 }
