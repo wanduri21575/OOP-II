@@ -1,3 +1,7 @@
+//CT100/G/21575/24
+//WANDURI MOSES
+//WEEK 2 ASSIGNMENT TASK 2 BANK PROGRAM
+
 import java.util.Scanner;
 
 class BankProgram{
@@ -34,4 +38,5 @@ class BankProgram{
       }
     scanner.close();
     }
+
 }
